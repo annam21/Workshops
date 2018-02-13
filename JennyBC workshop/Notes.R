@@ -69,6 +69,13 @@
   # Can do version control on .pngs
   # Can look at .csvs in GitHub online
   # Render the "flow" of the analysis (table)
+
+  # Cloning a remote repository to local machine
+  # pwd
+  # cd to GitHub
+  # git clone https://github.com/annam21/Workshops.git
+
+
 ##########################################
   # Rendering reports
   # You can put yaml in R code!

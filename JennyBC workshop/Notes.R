@@ -5,6 +5,8 @@
   # rstd.io/forgot
   # Paper: Good enough practices in scientific computing
 
+remote change 
+
   # Installing packages example
   library(devtools)
   # Owner or Organization / package name

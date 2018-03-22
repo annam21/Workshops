@@ -75,6 +75,9 @@
   # cd to GitHub
   # git clone https://github.com/annam21/Workshops.git
 
+  # Moving files
+  # Git move thinks you are deleting and adding a file - does not help
+  #   Keep track of that file through history
 
 ##########################################
   # Rendering reports
